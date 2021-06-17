@@ -1,4 +1,4 @@
-<img src="img/4f69z777_premium.png" alt="logo" width="128" height="191" align="right" />
+<img src="img/4f69z777_premium.png" alt="logo" width="153.6" height="229.2" align="right" />
 
 <h1>铬儿 · 后宫之神的语录合集</h1>
 
